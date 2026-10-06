@@ -1,0 +1,38 @@
+{
+  "_ayuda": "Copiá este archivo a la carpeta de la jornada como proyecto.json. Rutas relativas = desde esta carpeta. Los campos que empiezan con _ son comentarios.",
+  "marca": "mudra",
+  "prefijo": "Mudra",
+  "raiz": ".",
+  "pub": "../pub",
+  "bundle": "../bundle",
+  "tmp": "./tmp",
+  "remotion": "D:/Proyectos/remotion-editor",
+  "plantilla": "src/templates/mudra",
+  "entrega": "C:/Users/USUARIO/Desktop/MUDRA",
+  "fps": 30,
+  "concurrencia": 5,
+  "whisper": { "modelo": "large-v3", "rapido": "small", "hilos": 0 },
+  "web": {
+    "base": "https://www.mudracalzados.com",
+    "url_visible": "mudracalzados.com",
+    "etiqueta": "25% OFF",
+    "paginas": {
+      "atenas": "/productos/sandalias-atenas-1705s/",
+      "lua": "/productos/sandalias-lua-pftbe/",
+      "inicio": "/"
+    },
+    "cerrar": []
+  },
+  "_condiciones": "Lo que dice la WEB (no el guion) sobre transferencia, cuotas y envío. Si no coinciden, usar la web y avisar.",
+  "condiciones": {
+    "transferencia": "25% OFF",
+    "cuotas": "3 y 6 cuotas sin interés",
+    "envio": "Envío gratis desde $200.000"
+  },
+  "_entregas": "id de composición -> ruta dentro de la carpeta de entrega",
+  "entregas": {
+    "Mudra1": "Reel 1 - Zuecos Atenas/MUDRA-Reel1-Zuecos-Atenas.mp4",
+    "Mudra2": "Reel 2 - Sandalias Lua e Iris/MUDRA-Reel2-Sandalias-Lua-Iris.mp4",
+    "MudraExtra1": "Extras/MUDRA-Extra1-Cual-te-llevas.mp4"
+  }
+}
